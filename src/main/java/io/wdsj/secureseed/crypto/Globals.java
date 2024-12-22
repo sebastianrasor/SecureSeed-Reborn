@@ -1,7 +1,7 @@
 package io.wdsj.secureseed.crypto;
 
 import com.google.common.collect.Iterables;
-import io.wdsj.secureseed.interfaces.IWorldOptionsFeatureSeed;
+import io.wdsj.secureseed.duck.IWorldOptionsFeatureSeed;
 import net.minecraft.server.level.ServerLevel;
 
 import java.math.BigInteger;

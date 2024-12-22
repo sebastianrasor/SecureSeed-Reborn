@@ -1,7 +1,7 @@
 package io.wdsj.secureseed.mixin;
 
 import io.wdsj.secureseed.crypto.Globals;
-import io.wdsj.secureseed.interfaces.IWorldOptionsFeatureSeed;
+import io.wdsj.secureseed.duck.IWorldOptionsFeatureSeed;
 import net.minecraft.server.dedicated.DedicatedServerProperties;
 import net.minecraft.world.level.levelgen.WorldOptions;
 import org.spongepowered.asm.mixin.Final;

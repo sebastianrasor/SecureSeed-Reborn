@@ -5,7 +5,7 @@ import com.mojang.serialization.Codec;
 import com.mojang.serialization.MapCodec;
 import com.mojang.serialization.codecs.RecordCodecBuilder;
 import io.wdsj.secureseed.crypto.Globals;
-import io.wdsj.secureseed.interfaces.IWorldOptionsFeatureSeed;
+import io.wdsj.secureseed.duck.IWorldOptionsFeatureSeed;
 import net.minecraft.world.level.levelgen.WorldOptions;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Shadow;

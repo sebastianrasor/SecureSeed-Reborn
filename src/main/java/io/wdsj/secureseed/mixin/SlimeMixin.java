@@ -1,6 +1,6 @@
 package io.wdsj.secureseed.mixin;
 
-import io.wdsj.secureseed.interfaces.IChunkAccessSlimeChunk;
+import io.wdsj.secureseed.duck.IChunkAccessSlimeChunk;
 import net.minecraft.core.BlockPos;
 import net.minecraft.util.RandomSource;
 import net.minecraft.world.entity.EntitySpawnReason;

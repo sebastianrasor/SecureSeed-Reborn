@@ -1,7 +1,7 @@
 package io.wdsj.secureseed.mixin;
 
 import io.wdsj.secureseed.crypto.random.WorldgenCryptoRandom;
-import io.wdsj.secureseed.interfaces.IChunkAccessSlimeChunk;
+import io.wdsj.secureseed.duck.IChunkAccessSlimeChunk;
 import net.minecraft.world.level.ChunkPos;
 import net.minecraft.world.level.chunk.ChunkAccess;
 import org.spongepowered.asm.mixin.Final;
